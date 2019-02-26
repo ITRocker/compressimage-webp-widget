@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="webp">
+        <attr name="webp_src" format = "reference|color" />
+        <attr name="webp_bg" format = "reference|color" />
+    </declare-styleable>
+</resources>
